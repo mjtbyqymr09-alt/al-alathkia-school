@@ -1,2 +1,1 @@
-# al-alathkia-school
 index.html [generated with web_code_canvas tool]
